@@ -7,3 +7,5 @@ def create_monster(order):
     print(f"Monster created: {name}, HP: {hp}, Attack: {attack}\n")
 
 # Creating two monsters (first and second monster)
+create_monster("first")
+create_monster("second")
